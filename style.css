@@ -1,0 +1,21 @@
+.banner-css {
+    background-color: rgb(236, 183, 191);
+}
+
+.custom-button {
+    background-color: rgb(1, 40, 139);
+}
+
+.email-section {
+    background-color: rgb(236, 183, 191);
+
+}
+
+.textarea {
+    border: none;
+    background-color: white;
+    resize: none;
+    outline: none;
+    border-radius: 5px;
+
+}
